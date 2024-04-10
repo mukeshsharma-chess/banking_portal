@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "73b1",
+      "name": "Mukesh",
+      "address": "wagle estate thane",
+      "country": "India",
+      "pincode": "400604"
+    },
+    {
+      "id": "c80c",
+      "name": "Suresh",
+      "address": "Soni",
+      "country": "India",
+      "pincode": "400604"
+    },
+    {
+      "id": "bf82",
+      "name": "Mukesh",
+      "address": "Kalyan east",
+      "country": "India",
+      "pincode": "400604"
+    },
+    {
+      "id": "ecdd",
+      "name": "Mukesh",
+      "address": "wagle estate thane",
+      "country": "India",
+      "pincode": "400604"
+    }
+  ],
+  "Beneficiaries": [],
+  "countries": {
+    "status": 200,
+    "message": "Success",
+    "data": [
+      {
+        "id": 1,
+        "name": "Afghanistan"
+      },
+      {
+        "id": 2,
+        "name": "Australia"
+      },
+      {
+        "id": 3,
+        "name": "India"
+      },
+      {
+        "id": 4,
+        "name": "South Africa"
+      },
+      {
+        "id": 5,
+        "name": "USA"
+      }
+    ]
+  }
+}
